@@ -1,11 +1,11 @@
-## Interface: 100205
+## Interface: 20504
 ## Version: 1.0.9
 ## Title:|cff629539Minecraft|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/MCLU
+## X-Website: https://github.com/donniedice/MinecraftLevelUp
 ## X-Curse-Project-ID: 594151
 ## X-Wago-ID: vEGP4OG1
 ## X-WoWI-ID: 26256
