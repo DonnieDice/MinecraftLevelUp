@@ -1,9 +1,11 @@
 ## Interface: 30403
-## Version: 1.0.12
-## Title:  |cff629539Minecraft|r Level Up|cff629539!|r
-## Notes:  Play a Minecraft-inspired level-up sound!  |n|r  |cff629539By DonnieDice|r
+## Version: 2.0.0
+## Title:  |cff808bf4Minecraft|r Level Up|cff808bf4!|r
+## Notes:  Play a Minecraft-inspired level-up sound!  |n|r  |cff808bf4By DonnieDice|r
 ## IconTexture: Interface\AddOns\MinecraftLevelUp\media\icon
 ## Author: DonnieDice
+## SavedVariables: MCLUSettings
+## RequiredDeps: RGX-Framework
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/MinecraftLevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: vEGP4OG1
 ## X-WoWI-ID: 26256
 
-Core.lua
+data\locales.lua
+data\core.lua
