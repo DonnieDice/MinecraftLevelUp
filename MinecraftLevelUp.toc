@@ -4,6 +4,8 @@
 ## Notes:  Play a Minecraft-inspired level-up sound!  |n|r  |cff808bf4By DonnieDice|r
 ## IconTexture: Interface\AddOns\MinecraftLevelUp\media\icon
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: MCLUSettings
 ## RequiredDeps: RGX-Framework
 
