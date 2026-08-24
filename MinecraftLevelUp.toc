@@ -10,7 +10,7 @@
 ## RequiredDeps: RGX-Framework
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/MinecraftLevelUp
+## X-Website: https://github.com/RGXMods/MinecraftLevelUp
 ## X-Curse-Project-ID: 594151
 ## X-Wago-ID: vEGP4OG1
 ## X-WoWI-ID: 26256
