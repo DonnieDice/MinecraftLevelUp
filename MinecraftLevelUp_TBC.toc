@@ -11,7 +11,6 @@
 ## X-Website: https://github.com/RGXMods/MinecraftLevelUp
 ## X-Curse-Project-ID: 594151
 ## X-Wago-ID: vEGP4OG1
-## X-WoWI-ID: 26256
 
 data\locales.lua
 data\core.lua
